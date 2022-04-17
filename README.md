@@ -1,0 +1,2 @@
+# kurs_devops
+kurs
